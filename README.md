@@ -4,6 +4,7 @@
 
 ## 主要转换规则
 （注：加粗的为目标语言）
+
 （1）头文件
 #include<cstdio>
 #include<iostream>
